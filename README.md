@@ -1,5 +1,11 @@
-LSH
-===
+# LSH
+
+## Changes
+
+Added the new builtin 'quit'. It is only an alias for 'exit' and uses the same 
+function lsh_exit() that was already implemented.
+
+## Original Description
 
 LSH is a simple implementation of a shell in C.  It demonstrates the basics of
 how a shell works.  That is: read, parse, fork, exec, and wait.  So I think it's
