@@ -1,12 +1,14 @@
 /***************************************************************************//**
 
   @file         main.c
+                  modified by Dan Peirce August 2015
 
   @author       Stephen Brennan
 
   @date         Thursday,  8 January 2015
 
   @brief        LSH (Libstephen SHell)
+                  redefine as Light SHell
 
 *******************************************************************************/
 
